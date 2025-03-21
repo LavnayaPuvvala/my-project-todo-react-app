@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
       " This is demo for merge conflict"
+      " I recreated the issue to understand the merge conflict . "
         </p>
         <a
           className="App-link"
