@@ -9,6 +9,7 @@ function App() {
         <p>
 
       " This is demo for merge conflict. "
+      "I recreated the same issues to understand the merge conflict. "
         </p>
         <a
           className="App-link"
