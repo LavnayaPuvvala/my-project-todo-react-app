@@ -7,8 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-      " This is demo for merge conflict"
-      " I recreated the issue to understand the merge conflict . "
+
+      " This is demo for merge conflict. "
+      "I recreated the same issues to understand the merge conflict. "
+
         </p>
         <a
           className="App-link"
