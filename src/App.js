@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         welcome to the Archi's Academy workshop on github.
+        This a demo on merge conflict and resovingh merge conflict.
         </p>
         <a
           className="App-link"
